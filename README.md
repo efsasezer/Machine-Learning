@@ -12,7 +12,7 @@ Projede kullanılan veri seti, çeşitli demografik (yaş, cinsiyet vb.) ve biyo
 
 Sonuçların daha anlaşılır olması için projede çeşitli görselleştirmeler yapılmıştır:
 
-Öznitelik Önem Derecesi: Rastgele Orman modeli kullanılarak özniteliklerin önem dereceleri görselleştirilmiştir.
+Öznitelik Önem Derecesi: Random Forest modeli kullanılarak özniteliklerin önem dereceleri görselleştirilmiştir.
 
 ROC Eğrisi: Tüm modellerin ROC eğrisi çizilmiş ve AUC değerleri karşılaştırılmıştır.
 
